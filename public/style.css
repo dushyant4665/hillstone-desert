@@ -192,7 +192,7 @@ img { display: block; width: 100%; object-fit: cover; }
 
 .hero-bg {
     position: absolute; inset: 0;
-    background: url('public/hero.png') center/cover no-repeat;
+    background: url('hero.png') center/cover no-repeat;
 }
 .hero-overlay {
     position: absolute; inset: 0;
